@@ -1,10 +1,8 @@
 # harper.github.io
 # Harper K - Data Analyst
 
-- **Location:** Ottawa, ON
-- **Phone:** 613-898-1998
 - **Email:** harper.connectwithme@gmail.com
-- **Address:** 1308 Henry Farm Dr, Ottawa ON
+  
 
 ## Professional Profile
 
