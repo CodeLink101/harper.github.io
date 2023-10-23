@@ -62,44 +62,8 @@ Here are some of the tools and languages I have experience with and use in proje
 
 
 
-
-
-
-
-
-
-## Professional Experience
-
-### Data Analyst | Royal LePage, Ottawa, ON
-*October 2020 - Present*
-
-- Improved company website performance through strategic SEO optimization and data migration initiatives.
-- Assisted investors in evaluating potential profitability and risks associated with real estate investments, including cash flow analyses, ROI calculations, and risk assessments.
-- Created visual representations of data, such as charts, graphs, and maps, to make complex information more understandable for clients and colleagues.
-- Collected various types of real estate data, collaborating with cross-functional teams for ETL processes.
-
-
-### Associate Data Analyst | Manulife, Ottawa, ON
-*May 2018 - February 2020*
-
-- Utilized tools like Tableau, Power BI, or Excel to represent complex data for stakeholders.
-- Applied statistical principles, ensuring data accuracy and integrity.
-- Prepared data for analysis by addressing missing values, formatting issues, and implementing data governance best practices.
-
-
-## Volunteer Experience
-
-**Office Volunteer | H&R Block, Ottawa, ON**  
-*January 2017 – March 2018*
-
-- Provided basic information and assisted with initial paperwork.
-- Answered calls and messages, filed client documents, and inputted client information with confidentiality.
-
 ## Skills
 
-- **Programming Languages:** R, SQL, C++, Python
-- **Web Development:** HTML5
-- **Data Analysis Tools:** SPSS, Tableau, Jupyter Notebooks
 - **Databases:** Relational Databases, Teradata
 - **Cloud Services:** Azure Cloud, Google Sheets
 - **Big Data Technologies:** Apache Spark
