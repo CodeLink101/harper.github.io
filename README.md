@@ -79,3 +79,8 @@ Here are some of the tools and languages I have experience with and use in proje
 - Object-Oriented Data Structures in C++
 - University of Cape Town - Understanding Clinical Research: Behind the Statistics
 - Big Data Analytics with Hadoop and Apache Spark
+
+
+
+## 🧰 Projects and work
+Coming soon ......
