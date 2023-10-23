@@ -32,6 +32,7 @@ Here are some of the tools and languages I have experience with and use in proje
 
 
 
+
 <p align="center">
   <!-- Programming Languages -->
   <img align="centre" alt="R" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
@@ -62,6 +63,8 @@ Here are some of the tools and languages I have experience with and use in proje
   <img align="centre" alt="Program Management" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="centre" alt="Jira" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
 </p>
+
+
 
 
 
