@@ -36,7 +36,7 @@ Here are some of the tools and languages I have experience with and use in proje
 <p align="center">
   <!-- Programming Languages -->
   <img align="centre" alt="R" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
-  <img align="centre" alt="SQL" width="50px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg](https://res.cloudinary.com/practicaldev/image/fetch/s--MGNEmwe3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://s3-us-west-2.amazonaws.com/devcodepro/media/blog/que-es-sql.png)" />
+
   <img align="centre" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img align="centre" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
@@ -45,13 +45,9 @@ Here are some of the tools and languages I have experience with and use in proje
 
   <!-- Data Analysis Tools -->
   <img align="centre" alt="SPSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg" />
-  <img align="centre" alt="Tableau" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-line.svg" />
   <img align="centre" alt="Jupyter Notebooks" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 
-  <!-- Databases -->
-  <img align="centre" alt="Relational Databases" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-plain.svg" />
-  <img align="centre" alt="Teradata" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/teradata/teradata-plain.svg" />
-
+ 
   <!-- Cloud Services -->
   <img align="centre" alt="Azure Cloud" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
   <img align="centre" alt="Google Sheets" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg" />
