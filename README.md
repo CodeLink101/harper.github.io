@@ -10,7 +10,7 @@ Experienced Data Analyst with over 5 years of expertise in data processing and a
 
 ## Education
 
-**Diploma in Computer Engineering & Technology**  
+**Computer Engineering & Technology**  
 *Algonquin College, Ottawa, ON*  
 *October 2021*
 
@@ -24,11 +24,6 @@ Experienced Data Analyst with over 5 years of expertise in data processing and a
 - Created visual representations of data, such as charts, graphs, and maps, to make complex information more understandable for clients and colleagues.
 - Collected various types of real estate data, collaborating with cross-functional teams for ETL processes.
 
-### Security Supervisor | Arlington Group Inc, UCB1, Ottawa, ON
-*March 2020 - August 2021*
-
-- Oversaw physical and digital security, safeguarding sensitive data during COVID.
-- Collaborated with IT teams to implement access control systems and worked on security audits, risk assessments, and policy development.
 
 ### Associate Data Analyst | Manulife, Ottawa, ON
 *May 2018 - February 2020*
@@ -37,10 +32,6 @@ Experienced Data Analyst with over 5 years of expertise in data processing and a
 - Applied statistical principles, ensuring data accuracy and integrity.
 - Prepared data for analysis by addressing missing values, formatting issues, and implementing data governance best practices.
 
-### Manager | McDonald’s, Ottawa, ON
-*June 2017 - December 2018*
-
-- Tracked sales and revenue data, analyzed employee performance, and gained customer feedback for service improvement.
 
 ## Volunteer Experience
 
