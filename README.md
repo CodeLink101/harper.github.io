@@ -1,4 +1,4 @@
-# harper.github.io
+# Harper.github.io
 # Harper K - Data Analyst
 
 - **Email:** harper.connectwithme@gmail.com
